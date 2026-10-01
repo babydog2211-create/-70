@@ -541,7 +541,7 @@ document.addEventListener('DOMContentLoaded', function () {
 <script>
 (function () {
 
-  const GAS_URL = "https://script.google.com/macros/s/AKfycbxxbwaoWlvcC9OmZtL3AZI7teRO_ljfjaQER35UcfERohfyOFdnIdAu-7BGxuQQzvdZ/exec";
+  const GAS_URL = "https://script.google.com/macros/s/AKfycbziMOqgtjDfWMGJvl7BPdtewbBdiW4AAyBVIk4QkhtRedYJw7X0uhbA5B066ficj537/exec";
 
   const form = document.getElementById('surveyForm');
   if (!form) return;
