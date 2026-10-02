@@ -1,5 +1,5 @@
 /******************** CONFIG ********************/
-const SPREADSHEET_ID = '1yF2jIPcKXgGLDQFcsDABY-zQeoj87XquGaENwTgN8xQ';
+const SPREADSHEET_ID = '1BFoURr_3ACC2PZh58g1wlau3BsFH5VCHQl7X_ilozFg';
 const ROOT_FOLDER_NAME = 'AnimalSurvey_OwnerPhotos';
 
 /******************** MASTER HEADER ********************/
